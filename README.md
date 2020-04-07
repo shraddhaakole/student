@@ -1,2 +1,0 @@
-# student
-php basic project
